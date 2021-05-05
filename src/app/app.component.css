@@ -1,0 +1,22 @@
+BODY {
+    background: white; 
+   }
+   TABLE {
+    width: 300px; 
+    border-collapse: collapse; 
+    border: 2px solid white; 
+   }
+   
+   TD, TH {
+    
+    padding: 3px; 
+    border: 1px solid maroon; 
+    text-align: center;
+    /* text-decoration: "{item.isCompleted} ? 'line-through' : 'none'"; */
+   }
+   
+
+   INPUT {
+       margin: 5px;
+       margin-right: 15px;
+   }
